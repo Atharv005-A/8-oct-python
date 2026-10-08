@@ -16,5 +16,8 @@ newnum=lis[3]//3
 lis.insert(6,newnum)#inserted  num which is 1/3 of 4th postion num to 6 th postion of list
 print("list after inserting element at 6 th position:",lis)
 
+print("ascending ordered list",sorted(lis))
+print("decending ordered list",sorted(lis,reverse=True))
+
 
 
