@@ -1,4 +1,6 @@
-#create a list of 10 nums print sum of last 4 elements of the list find out diff between max and min element of the list ,insert a num in a list at 6 th position this num must be 1/3 of num stored at 4 th postion.
+#create a list of 10 nums print sum of last 4 elements of the list 
+# find out diff between max and min element of the list 
+# insert a num in a list at 6 th position this num must be 1/3 of num stored at 4 th postion.
 
 
 lis=[1,2,99,45,23,56,89,24,77,88]
