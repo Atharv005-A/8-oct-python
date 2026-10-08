@@ -19,3 +19,4 @@ print("students passed:")
 for sid,detail in students.items():
     if detail["passed"]:
         print(detail["name"])  
+
